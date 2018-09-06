@@ -1,6 +1,12 @@
 # 100daysOfcoding
 Log file of next 100 days of code work including learning via courses, books, and individual projects.
 
+##DAY 4 (9/6/18):
+    1. Completed lecture 48 in React Practice Course on m-city project; read React material from SBO.
+
+##DAY 3 (9/5/18):
+    1.Completed lectures 46-47 in React Practice Course then spent the majority of remaining time, about 2-3 hours attempting to read and understand others code in an open source project.
+
 ##DAY 2 (9/4/18):
     1: Completed lectures 43-45 in React Practice Course; 2: The Redux section in Junior to Senior Dev course, lectures 77 - 82; 3: Finished lectures 8-10 in Natours project for Advanced CSS.  Did outside research reading from J to S dev course resources on roadmaps...probably spent more time looking for items then actually learning material, but did find some good resources for future reference such as exploring ES2018 and ES2019.
 
