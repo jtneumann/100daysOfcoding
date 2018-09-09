@@ -1,6 +1,10 @@
 # 100daysOfcoding
 Log file of next 100 days of code work including learning via courses, books, and individual projects.
 
+##DAY 6 (9/8/18): 1. Completed lecture 54-55 in the RP course working on the m-city project; 2, did research on coding challenges sites, while I found a number of them decided to user coderbyte.com as source for daily work to solve at least one challenge a day.  Todays challenge was on factorial functions. 3. Read docs for using Nodemailer in projects.
+
+##DAY 5 (9/7/18): 1. Completed lecture 49-53 in the RP course working on the m-city project; 2. Continued reading text books through SBO on React and Redux; however, found the example projects either lacking or difficult to follow in there presentation of code on their website, as such decided not to renew subscription and will use the resources documentation pages directly to better learn the proper usage formulas.
+
 ##DAY 4 (9/6/18):
     1. Completed lecture 48 in the RP course working on the m-city project; then, lectures 94-99 in J2SD, learning without code along work; next, lectures 11-16 in AdvCSS...learning only too.  Used subscription to read aterial for deeper understanding of state (chap 3.1 in React in Action) as well as redux (chap2 until listing 2.14 in Redux in Action).
 
