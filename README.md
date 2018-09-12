@@ -1,9 +1,11 @@
 # 100daysOfcoding
 Log file of next 100 days of code work including learning via courses, books, and individual projects.
 
-##DAY 8 (9/108): 1. Completed lecture 60in the RP course working on the m-city project; updated DB images for the m_city team project to accurate match prop name between DB and storage; found root error in impropr use of this on props when passing props directly to the component, which seemed to be the entire cause of the error messages.  Also found a few small syntax errors that might have affect the outcome but since they were found first before the errors stopped, not quite sure of the effect.  Nevertheless, allitems in project are fully functional now.  Lastly, in addition to completed the course lecture, I reviewed the RP material for today plus the prior two days to ensure that I more thoroughly understood the process for creating these components.
+##DAY 8 (9/11/18): 1. Completed lecture 61 in the RP course working on the m-city project and started prep for coding challenge #9.  
 
-##DAY 7(9/098): 1. Completed lecture 56-59the RP course working on the m-city project; after completing these sections though, the player images are now uploading and storing properly in the DB.  Next work will be to trouble shoot the errors.
+##DAY 8 (9/10/18): 1. Completed lecture 60 in the RP course working on the m-city project; updated DB images for the m_city team project to accurate match prop name between DB and storage; found root error in impropr use of this on props when passing props directly to the component, which seemed to be the entire cause of the error messages.  Also found a few small syntax errors that might have affect the outcome but since they were found first before the errors stopped, not quite sure of the effect.  Nevertheless, allitems in project are fully functional now.  Lastly, in addition to completed the course lecture, I reviewed the RP material for today plus the prior two days to ensure that I more thoroughly understood the process for creating these components.
+
+##DAY 7(9/09/18): 1. Completed lecture 56-59the RP course working on the m-city project; after completing these sections though, the player images are now uploading and storing properly in the DB.  Next work will be to trouble shoot the errors.
 
 ##DAY 6 (9/8/18): 1. Completed lecture 54-55 in the RP course working on the m-city project; 2, did research on coding challenges sites, while I found a number of them decided to user coderbyte.com as source for daily work to solve at least one challenge a day.  Todays challenge was on factorial functions. 3. Read docs for using Nodemailer in projects.
 
