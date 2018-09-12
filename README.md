@@ -1,6 +1,8 @@
 # 100daysOfcoding
 Log file of next 100 days of code work including learning via courses, books, and individual projects.
 
+##DAY 8 (9/12/18): 1. Completed lectures 62-66 in the RP course...m-city project now ready for deployment.  However, after attempting to create a dotenv file for the firebase-config keys, I was unable to get the firebase.js file to access the DB.  Kept getting a database undefined error.  I spent a few hours trying multiple different setups and searching the net for possible solutions, but was unsuccessful.  I also tried a deep-dive into the docs for firebase, but they seemed significantly lacking...lack could be due to my inexperience too though.  Nevertheless, today felt like a waste; hours upon hours spent on an task without ever reaching a resolution.
+
 ##DAY 8 (9/11/18): 1. Completed lecture 61 in the RP course working on the m-city project and started prep for coding challenge #9.  
 
 ##DAY 8 (9/10/18): 1. Completed lecture 60 in the RP course working on the m-city project; updated DB images for the m_city team project to accurate match prop name between DB and storage; found root error in impropr use of this on props when passing props directly to the component, which seemed to be the entire cause of the error messages.  Also found a few small syntax errors that might have affect the outcome but since they were found first before the errors stopped, not quite sure of the effect.  Nevertheless, allitems in project are fully functional now.  Lastly, in addition to completed the course lecture, I reviewed the RP material for today plus the prior two days to ensure that I more thoroughly understood the process for creating these components.
