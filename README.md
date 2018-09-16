@@ -1,6 +1,10 @@
 # 100daysOfcoding
 Log file of next 100 days of code work including learning via courses, books, and individual projects.
 
+##DAY 10 (9/14/18): 1. Completed lectures 157-163 in the RP course, specifically added a file upload, file download and forgot password function to the waves project.  Project now complete will turn to focusing on improving CSS skills and strengthen algorithm solutions.
+
+##DAY 9 (9/13/18): 1. Completed lectures 152-156 in the RP course on the waves project, specifically finished the Nodemailer set-up and added an ORDER ID function to purchase component.  Note: the lectures used a fake gmail account to send and receive, yet I chose to try to use the Ethereal test mail accounts, but was not able to get that function to work properly yet.
+
 ##DAY 8 (9/12/18): 1. Completed lectures 62-66 in the RP course...m-city project now ready for deployment.  However, after attempting to create a dotenv file for the firebase-config keys, I was unable to get the firebase.js file to access the DB.  Kept getting a database undefined error.  I spent a few hours trying multiple different setups and searching the net for possible solutions, but was unsuccessful.  I also tried a deep-dive into the docs for firebase, but they seemed significantly lacking...lack could be due to my inexperience too though.  Nevertheless, today felt like a waste; hours upon hours spent on an task without ever reaching a resolution.
 
 ##DAY 8 (9/11/18): 1. Completed lecture 61 in the RP course working on the m-city project and started prep for coding challenge #9.  
