@@ -1,7 +1,9 @@
 # 100daysOfcoding
 Log file of next 100 days of code work including learning via courses, books, and individual projects.
 
-##DAY 10 (9/14/18): 1. Completed lectures 157-163 in the RP course, specifically added a file upload, file download and forgot password function to the waves project.  Project now complete will turn to focusing on improving CSS skills and strengthen algorithm solutions.
+##DAY 11 (9/16/18): 1: Finished lectures 17-21 in Natours project for Advanced CSS.
+
+##DAY 10 (9/14/18): 1. Completed lectures 157-163 in the RP course, specifically added a file upload, file download and forgot password function to the waves project. Project now complete will turn to focusing on improving CSS skills and strengthen algorithm solutions.  Also, continued reading on threejs.org library, but have not decided on a project build or even if I will have enough knowledge to enter the #9 code challenge.
 
 ##DAY 9 (9/13/18): 1. Completed lectures 152-156 in the RP course on the waves project, specifically finished the Nodemailer set-up and added an ORDER ID function to purchase component.  Note: the lectures used a fake gmail account to send and receive, yet I chose to try to use the Ethereal test mail accounts, but was not able to get that function to work properly yet.
 
