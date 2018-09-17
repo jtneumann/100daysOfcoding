@@ -1,6 +1,8 @@
 # 100daysOfcoding
 Log file of next 100 days of code work including learning via courses, books, and individual projects.
 
+##DAY 12 (9/17/18): 1: Completed lectures 22-29 in Natours project for Advanced CSS.
+
 ##DAY 11 (9/16/18): 1: Finished lectures 17-21 in Natours project for Advanced CSS.
 
 ##DAY 10 (9/14/18): 1. Completed lectures 157-163 in the RP course, specifically added a file upload, file download and forgot password function to the waves project. Project now complete will turn to focusing on improving CSS skills and strengthen algorithm solutions.  Also, continued reading on threejs.org library, but have not decided on a project build or even if I will have enough knowledge to enter the #9 code challenge.
