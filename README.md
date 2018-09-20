@@ -1,6 +1,8 @@
 # 100daysOfcoding
 Log file of next 100 days of code work including learning via courses, books, and individual projects.
 
+##DAY 13 (9/19/18) 1: Reviewed lectures 73-75 in RP course.
+
 ##DAY 12 (9/17/18): 1: Completed lectures 22-29 in Natours project for Advanced CSS.
 
 ##DAY 11 (9/16/18): 1: Finished lectures 17-21 in Natours project for Advanced CSS.
