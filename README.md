@@ -1,6 +1,8 @@
 # 100daysOfcoding
 Log file of next 100 days of code work including learning via courses, books, and individual projects.
 
+##DAY 15 (9/22/18) 1: Reviewed lectures 80-84 in RP course.
+
 ##DAY 14 (9/21/18) 1: Reviewed lectures 76-79 in RP course.
 
 ##DAY 13 (9/19/18) 1: Reviewed lectures 73-75 in RP course.
