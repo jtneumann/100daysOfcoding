@@ -1,6 +1,8 @@
 # 100daysOfcoding
 Log file of next 100 days of code work including learning via courses, books, and individual projects.
 
+##DAY 17 (10/05/18) 1: Completed section 11-Buble sort in the js-algorithms-and-data-structures course.
+
 ##DAY 16 (10/03/18) Took the past two weeks off from coding to focus further on current full-time work, which required extra hours to complete than expected.  Nevertheless, endeavoring to return to at least some daily code to both maintain current skills as well as gain new knowledge.  1: Reviewed lecture(s) 25- First Steps with Sass: Mixins, Extends and Functions in Advanced CSS course.
 
 ##DAY 15 (9/22/18) 1: Reviewed lectures 80-84 in RP course.
