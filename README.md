@@ -1,7 +1,7 @@
 # 100daysOfcoding
 Log file of next 100 days of code work including learning via courses, books, and individual projects.
 
-##DAY 1 (11/16/18):  Restarted after stopping work to focus on income generation.  1. Advanced CSS:
+##DAY 1 (11/16/18):  Restarted after stopping work to focus on income generation.  1. Advanced CSS: completed section 4 by doing lectures 26-29.
 
 ****************************************************************************************************************************************
 
