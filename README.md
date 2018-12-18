@@ -1,7 +1,12 @@
 # 100daysOfcoding
 Log file of next 100 days of code work including learning via courses, books, and individual projects.
 
-##DAY 1 (11/16/18):  Restarted after stopping work to focus on income generation.  1. Advanced CSS: completed section 4 by doing lectures 26-29.
+
+##DAY XX (12/17/18): Review day again to maintain prior knowledge before continuing more consistent work.  1. Jr2SrDev course; section 14-AWS: Lectures 316-332. 
+
+****************************************************************************************************************************************
+
+##DAY XX (11/16/18):  Review day after extended period with limited time to code.  1. Advanced CSS: completed section 4 by doing lectures 26-29.
 
 ****************************************************************************************************************************************
 
